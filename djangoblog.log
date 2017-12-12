@@ -258,3 +258,69 @@
 [2017-12-12 15:29:24,896] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
 [2017-12-12 15:29:24,909] INFO [djangoblog.seo_processor:28] set processor cache.
 [2017-12-12 15:29:24,954] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 15:59:08,054] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 15:59:08,090] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 15:59:08,205] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:01:29,948] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:01:29,981] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:01:30,083] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:02:59,232] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:02:59,246] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:02:59,296] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:03:28,967] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:03:28,979] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:03:29,019] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:03:55,622] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:03:55,635] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:03:55,674] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:04:31,213] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:04:31,225] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:04:31,314] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:04:59,893] INFO [djangoblog.comment_list:106] set article comments:1
+[2017-12-12 16:04:59,900] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:04:59,927] INFO [djangoblog.news:62] cache_decorator set cache:get_category_tree key:44a04fd3466cd9171edfb2a791cf8985
+[2017-12-12 16:04:59,927] INFO [djangoblog.news:62] cache_decorator set cache:get_category_tree key:9c22121f93b7033377bd91a2e79f7ccb
+[2017-12-12 16:04:59,934] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:05:05,188] INFO [djangoblog.news:62] cache_decorator set cache:get_sub_categorys key:93b2d2ec0f625a27ed05265152ab2538
+[2017-12-12 16:05:05,191] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:category_list_markdown_1
+[2017-12-12 16:05:05,196] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:05:05,239] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:05:17,367] INFO [djangoblog.news:62] cache_decorator set cache:get_sub_categorys key:93b2d2ec0f625a27ed05265152ab2538
+[2017-12-12 16:05:17,370] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:category_list_markdown_1
+[2017-12-12 16:05:17,375] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:05:17,413] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:15:58,604] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:15:58,642] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:15:58,743] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:18:31,300] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:18:31,310] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:18:31,346] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:18:41,038] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:18:41,070] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:18:41,173] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:24:18,321] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:24:18,334] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:24:18,375] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:24:34,845] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:24:34,877] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:24:34,975] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:24:39,050] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:24:39,082] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:24:39,190] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:24:41,000] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:24:41,015] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:24:41,062] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:24:43,208] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:24:43,218] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:24:43,249] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:24:46,519] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:24:46,529] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:24:46,559] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:25:48,474] INFO [djangoblog.get_queryset_from_cache:62] set view cache.key:index_1
+[2017-12-12 16:25:48,505] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:25:48,605] INFO [djangoblog.load_sidebar:124] load sidebar
+[2017-12-12 16:26:02,747] INFO [djangoblog.comment_list:106] set article comments:1
+[2017-12-12 16:26:02,754] INFO [djangoblog.seo_processor:28] set processor cache.
+[2017-12-12 16:26:02,807] INFO [djangoblog.news:62] cache_decorator set cache:get_category_tree key:7ac857ca7886860fd43fd996477dc470
+[2017-12-12 16:26:02,808] INFO [djangoblog.news:62] cache_decorator set cache:get_category_tree key:2d1edc6579e0394c18866006a92e5d15
+[2017-12-12 16:26:02,848] INFO [djangoblog.load_sidebar:124] load sidebar

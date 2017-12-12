@@ -6,8 +6,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-# DEBUG = False
+# DEBUG = True
+DEBUG = False
 TESTING = len(sys.argv) > 1 and sys.argv[1] == 'test'
 
 ALLOWED_HOSTS = ['*']
@@ -128,7 +128,8 @@ TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
 DATE_TIME_FORMAT = '%Y-%m-%d'
 
 SITE_NAME = '湖风雨晚晴'
-SITE_URL = 'http://www.zhiyuzhishan.com'
+# SITE_URL = 'http://www.zhiyuzhishan.com/'
+SITE_URL = 'http://182.61.15.209:8081/'
 SITE_DESCRIPTION = '自强不息，止于至善'
 SITE_SEO_DESCRIPTION = '小站主要用来分享和记录学习经验,教程,记录个人生活的点滴以及一些随笔.欢迎大家访问小站'
 SITE_SEO_KEYWORDS = 'linux,database,数据库,服务器,ubuntu,shell,web,python,django,spark,人工智能,tensorflow'
