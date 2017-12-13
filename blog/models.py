@@ -32,7 +32,6 @@ class BaseModel(models.Model):
 
 
 class Article(BaseModel):
-    """文章"""
     STATUS_CHOICES = (
         ('d', '草稿'),
         ('p', '发表'),
