@@ -1,6 +1,6 @@
 appdirs==1.4.3
 coverage==4.4.1
-Django==1.11.7
+Django==1.11.28
 django-appconf==1.0.2
 django-autoslug==1.9.3
 django-compressor==2.2
